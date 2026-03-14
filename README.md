@@ -13,9 +13,6 @@ This project uses the dataset **`global_supply_chain_risk_2026.csv`** to perform
 * Project Objectives
 * Methodology
 * Technologies Used
-* Installation Instructions
-* Project Structure
-* Key Analysis Tasks
 * Recommendations
 * Future Improvements
 * Author
