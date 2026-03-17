@@ -165,5 +165,5 @@ Possible extensions of this project include:
 # Author
 
 * Destiny Kevin
-* Candace Chijoke-Mba
+* Candace Chijioke-Mba
 #### Data Analyst | Supply Chain Analytics | Python Enthusiast
